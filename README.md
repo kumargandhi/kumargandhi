@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumargandhi
-- 👀 I’m interested in coding in JavaScript, Angular, NodeJS, MongoDB...
+- 👀 I’m interested in coding JavaScript, Angular, NodeJS, MongoDB, HTML, CSS ...
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 - 📫 You can reach me at kumargandhi30@gmail.com
