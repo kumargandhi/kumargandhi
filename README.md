@@ -10,9 +10,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="Website" alt="Wordpress Website" width="30"/>
   </a>
   <br><br>
- <p>
+ <!-- <p>
    <img src="https://komarev.com/ghpvc/?username=knowankit" alt="kumargandhi" />
-  </p>
+  </p> -->
 </div>
 
 - 🌱 I’m currently learning AWS.
