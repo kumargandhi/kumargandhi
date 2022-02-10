@@ -28,7 +28,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/>
-  <img src="https://www.primefaces.org/primeng/resources/images/primeng-logo-horizontal.svg" alt="bootstrap" width="auto" height="40"/>
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?w=70&ssl=1" alt="primeng" width="auto" height="40"/>
 </p>
   
 <br>
