@@ -33,3 +33,5 @@
 </p>
   
 <br>
+
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumargandhi)](https://github.com/anuraghazra/github-readme-stats)
