@@ -34,4 +34,4 @@
   
 <br>
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumargandhi)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumargandhi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
