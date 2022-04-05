@@ -2,7 +2,7 @@
 <h3 align="center">Web developer trying to write quality code</h3>
 <h4 align="center">I’m interested in coding JavaScript, Angular, NodeJS, MongoDB, HTML, CSS ... </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="kumargandhi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="kumargandhi" /> </p> -->
 
 <div align=center>
   <a href="https://www.linkedin.com/in/kumargandhi/" target="_blank">
