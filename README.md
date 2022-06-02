@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kumar Gandhi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Kumar Gandhi</h1>
 <h3 align="center">Web developer trying to write quality code</h3>
 <h4 align="center">I’m interested in coding JavaScript, Angular, NodeJS, MongoDB, HTML, CSS ... </h3>
 
