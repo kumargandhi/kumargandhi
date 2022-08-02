@@ -25,6 +25,7 @@
    <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="JavaScript">
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png' height='40' width='auto' alt="TypeScript">
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="angular" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/>
    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?w=70&ssl=1" alt="primeng" width="auto" height="40"/>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
